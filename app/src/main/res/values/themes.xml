@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.RunningTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/md_blue_500</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/md_blue_50</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/md_blue_900</item>
+        <item name="colorSecondaryVariant">@color/md_blue_A200</item>
+        <item name="colorOnSecondary">@color/md_blue_50</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/md_blue_500</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+
+</resources>
