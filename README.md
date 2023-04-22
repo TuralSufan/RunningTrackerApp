@@ -1,6 +1,6 @@
 # RunningTrackerApp
 
-#### RunningTracker is a detailed app to track your runnings.
+#### RunningTracker is a detailed app to track your runnings over Google Map.
 
 ## **Modules**
 
