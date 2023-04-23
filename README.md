@@ -1,6 +1,7 @@
 # RunningTrackerApp
 
 #### RunningTracker is a detailed app to track your runnings over Google Map.
+_For running, you have to enter your own Google API Key. You can get it from [here](https://developers.google.com/maps/documentation/android-sdk/get-api-key)_
 
 ## **Modules**
 
